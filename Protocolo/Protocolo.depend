@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1537631238 source:d:\programas hechos por mi\protocolo\main.cpp
+	<iostream>
+	"protocol.h"
+
+1537636601 source:d:\programas hechos por mi\protocolo\src\protocol.cpp
+	"protocol.h"
+	"cesar.h"
+	"enigma.h"
+	"affin.h"
+
+1537634270 d:\programas hechos por mi\protocolo\include\protocol.h
+	"../ops.h"
+
+1537628032 d:\programas hechos por mi\protocolo\operaciones.h
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<NTL/ZZ.h>
+
+1537635959 source:d:\programas hechos por mi\protocolo\src\cesar.cpp
+	"cesar.h"
+
+1537635959 d:\programas hechos por mi\protocolo\include\cesar.h
+	"..\ops.h"
+
+1537632535 source:d:\programas hechos por mi\protocolo\operaciones.cpp
+	"..\ops.h"
+
+1537628675 source:d:\programas hechos por mi\protocolo\src\affin.cpp
+	"affin.h"
+
+1537628424 d:\programas hechos por mi\protocolo\include\affin.h
+	"..\ops.h"
+
+1537636423 source:d:\programas hechos por mi\protocolo\src\enigma.cpp
+	"enigma.h"
+
+1537634810 d:\programas hechos por mi\protocolo\include\enigma.h
+	"../ops.h"
+
+1537632532 d:\programas hechos por mi\protocolo\ops.h
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<NTL/ZZ.h>
+
